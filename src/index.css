@@ -344,4 +344,11 @@ a:hover{
 }
 
 
+@media (min-width: 1080px){
+  body{
+    zoom: 85%;
+  }
+}
+
+
 
