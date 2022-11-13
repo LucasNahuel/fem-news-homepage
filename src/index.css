@@ -161,9 +161,9 @@ p:hover{
   font-variation-settings: 'wght' 100;
   color: var(--Off-white);
   margin-block-start: 0.6em;
-  font-size: 0.9em;
+  font-size: .744em;
   line-height: 1.7em;
-  letter-spacing: 0.6px;
+  letter-spacing: 1.5px;
 }
 
 .side-article-title{
