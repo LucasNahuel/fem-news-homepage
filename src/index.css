@@ -344,7 +344,7 @@ a:hover{
 }
 
 
-@media (min-width: 1080px){
+@media (min-width: 768px){
   body{
     zoom: 85%;
   }
